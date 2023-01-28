@@ -1,0 +1,2 @@
+Added text to demonstrate edits
+To create a .txt file, I used the line "vim paper_draft.txt"
